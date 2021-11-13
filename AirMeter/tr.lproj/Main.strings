@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "My Saved Locations"; ObjectID = "2YD-XN-BZq"; */
+"2YD-XN-BZq.text" = "My Saved Locations";
+
+/* Class = "UILabel"; text = "AQI"; ObjectID = "4n2-YM-4UD"; */
+"4n2-YM-4UD.text" = "AQI";
+
+/* Class = "UILabel"; text = "Tap to change location "; ObjectID = "4zi-QI-DNY"; */
+"4zi-QI-DNY.text" = "Tap to change location ";
+
+/* Class = "UILabel"; text = "Fiday, 11 June"; ObjectID = "820-EI-nZc"; */
+"820-EI-nZc.text" = "Fiday, 11 June";
+
+/* Class = "UILabel"; text = "24.0"; ObjectID = "9vB-0g-toG"; */
+"9vB-0g-toG.text" = "24.0";
+
+/* Class = "UILabel"; text = "PM2.5"; ObjectID = "GAv-8a-wRv"; */
+"GAv-8a-wRv.text" = "PM2.5";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "Ict-WG-RUC"; */
+"Ict-WG-RUC.text" = "30";
+
+/* Class = "UITabBarItem"; title = "My Saved Locations"; ObjectID = "OIJ-XK-NSz"; */
+"OIJ-XK-NSz.title" = "My Saved Locations";
+
+/* Class = "UILabel"; text = "Cairo, Egypt"; ObjectID = "Pvv-mm-NQw"; */
+"Pvv-mm-NQw.text" = "Cairo, Egypt";
+
+/* Class = "UILabel"; text = "Average"; ObjectID = "UdA-mD-hhF"; */
+"UdA-mD-hhF.text" = "Average";
+
+/* Class = "UITabBarItem"; title = "Next 24 Hours"; ObjectID = "XnS-2m-amY"; */
+"XnS-2m-amY.title" = "Next 24 Hours";
+
+/* Class = "UILabel"; text = "Next 24 Hours"; ObjectID = "cHM-Em-dDG"; */
+"cHM-Em-dDG.text" = "Next 24 Hours";
+
+/* Class = "UIButton"; configuration.title = "Save Location"; ObjectID = "f0l-yp-2uM"; */
+"f0l-yp-2uM.configuration.title" = "Save Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f0l-yp-2uM"; */
+"f0l-yp-2uM.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "hJO-8e-O00"; */
+"hJO-8e-O00.title" = "Map";
+
+/* Class = "UITabBarItem"; title = "Air Quality"; ObjectID = "hnE-Jm-znE"; */
+"hnE-Jm-znE.title" = "Air Quality";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "vsx-hB-Rxj"; */
+"vsx-hB-Rxj.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vsx-hB-Rxj"; */
+"vsx-hB-Rxj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "dasnd skjndka dsa dkasnd asdm asd sadasndas dasöndksan dsakdnask das dkjasnbd masdnaksn"; ObjectID = "xfF-c1-aps"; */
+"xfF-c1-aps.text" = "dasnd skjndka dsa dkasnd asdm asd sadasndas dasöndksan dsakdnask das dkjasnbd masdnaksn";
